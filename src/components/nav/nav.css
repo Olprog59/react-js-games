@@ -1,0 +1,21 @@
+.container > header > nav {
+
+}
+
+.container > header > nav ul{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 250px;
+}
+
+.container > header > nav ul li{
+    padding: 10px;
+    margin: 0 5px;
+    background-color: #718093;
+}
+.container > header > nav ul li a{
+    display: block;
+}
